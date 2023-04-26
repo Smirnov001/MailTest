@@ -5,5 +5,6 @@ Java, Selenium, Junit5, Allure, Maven, JDK IntelliJ IDEA.
 
 Для выбора браузера и запуска тестов необходимо открыть файл CommonAction.java и установить значение поля BROWSER_AND_PLATFORM. 
 В данном файле представлены два браузера: Chrome_Windows и Mozilla_Windows.
+Также необходимо указать путь до драйвера.
 
 
